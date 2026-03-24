@@ -20,10 +20,10 @@ Terminal keren buat Termux dengan vibe hacker, fitur lengkap, dan password prote
 ```bash
 # Clone repo
 git clone https://github.com/Whois-MArzz/marzx-cyber.git
-cd marzx-cyber
+cd MarzXcyber
 
 # Kasih izin
-chmod +x marzx_cyber.sh
+chmod +x marz_cyber.sh
 
 # Jalanin
-./marzx_cyber.sh
+./marz_cyber.sh
